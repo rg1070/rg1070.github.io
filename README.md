@@ -51,7 +51,7 @@
 - **UNH Sustainability Award** (2023)
 - **AEESP Best Poster Award** (2022)
 - **Castro Academic Award**, UNH Paul College (2020)
-- **Publications:** 5 journals, 5 conferences [Google Scholar]([https://scholar.google.com)](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en)
+- **Publications:** 5 journals, 5 conferences [Google Scholar](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en)
 - **Certificates:** Deep Learning Specialization – Coursera
 
 ---
