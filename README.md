@@ -45,16 +45,16 @@
 - Reduced execution faults, saving approximately $500K
 
 ---
-## Selected Publications
+## Selected Publications [Google Scholar](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en)
 
 - **Deep Reinforcement Learning Based Optimization of an Island Energy-Water Microgrid System**\
   <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2025 (under review)</i></span>
 
 - **Spatial household preferences of decentralized solar photovoltaic and thermal systems**\
-  <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2022 (under review)</i></span>
+  <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2022</i></span>
 
 - **Dynamics of large-scale solar PV adoption feedback effects: A technical, economic, and environmental assessment**\
-  <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2024 (under review)</i></span>
+  <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2024</i></span>
  
 
 ---
@@ -64,7 +64,6 @@
 - **UNH Sustainability Award** (2023)
 - **AEESP Best Poster Award** (2022)
 - **Castro Academic Award**, UNH Paul College (2020)
-- **Publications:** 5 journals, 5 conferences [Google Scholar](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en)
 - **Certificates:** Deep Learning Specialization – Coursera
 
 ---
