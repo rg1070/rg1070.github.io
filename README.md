@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 Awards & Publications
+## Awards & Publications
 
 - **UNH Sustainability Award** (2023)
 - **AEESP Best Poster Award** (2022)
@@ -56,7 +56,7 @@
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - Piano, hiking, kayaking, biking, volleyball, soccer
 
