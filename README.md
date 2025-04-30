@@ -45,7 +45,7 @@
 - Reduced execution faults, saving approximately $500K
 
 ---
-## Selected Publications [Google Scholar](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en)
+## Selected Publications
 
 - **Deep Reinforcement Learning Based Optimization of an Island Energy-Water Microgrid System**\
   <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2025 (under review)</i></span>
@@ -55,7 +55,8 @@
 
 - **Dynamics of large-scale solar PV adoption feedback effects: A technical, economic, and environmental assessment**\
   <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2024</i></span>
- 
+  
+Google Scholar](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en) 
 
 ---
 
