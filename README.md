@@ -75,4 +75,3 @@
 
 ---
 
-> _"Blending AI and sustainability to design the future of intelligent infrastructure."_  
