@@ -48,13 +48,13 @@
 ## Selected Publications
 
 - **Deep Reinforcement Learning Based Optimization of an Island Energy-Water Microgrid System**\\
-> Resources, Conservation & Recycling, Elsevier, 2025 (under review)  
+  <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2025 (under review)</i></span>
 
 - **Spatial household preferences of decentralized solar photovoltaic and thermal systems**\\
-> Resources, Conservation & Recycling, Elsevier, 2022
+  <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2022 (under review)</i></span>
 
 - **Dynamics of large-scale solar PV adoption feedback effects: A technical, economic, and environmental assessment**\\
-> Resources, Conservation & Recycling, Elsevier, 2024  
+  <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2024 (under review)</i></span>
  
 
 ---
