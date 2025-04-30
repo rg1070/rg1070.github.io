@@ -56,7 +56,7 @@
 - **Dynamics of large-scale solar PV adoption feedback effects: A technical, economic, and environmental assessment**\
   <span style="color:gray"><i>Resources, Conservation & Recycling, Elsevier, 2024</i></span>
   
-Google Scholar](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en) 
+[Google Scholar](https://scholar.google.com/citations?user=4X92o5gAAAAJ&hl=en) 
 
 ---
 
