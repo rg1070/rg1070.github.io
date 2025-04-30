@@ -45,8 +45,31 @@
 - Reduced execution faults, saving approximately $500K
 
 ---
+## Selected Publications
 
-## Awards & Publications
+> **A multi-objective optimization model for design of smart renewable microgrids.**\\
+> Applied Energy, Elsevier, 2024  
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4X92o5gAAAAJ:u5HHmVD_uO8C)
+
+> **An integrated techno-economic-environmental framework for decentralized electricity systems.**\\
+> Journal of Cleaner Production, Elsevier, 2023  
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4X92o5gAAAAJ:2osOgNQ5qMEC)
+
+> **Using LCA and system dynamics to evaluate climate mitigation impacts.**\\
+> Resources, Conservation & Recycling, Elsevier, 2022  
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4X92o5gAAAAJ:Tyk-4Ss8FVUC)
+
+> **A data-driven analysis of dam removal and GHG emissions in the U.S.**\\
+> Environmental Research Letters, IOP Publishing, 2021  
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4X92o5gAAAAJ:IjCSPb-OGe4C)
+
+> **Design and assessment of a sustainable energy system using reinforcement learning.**\\
+> Energy, Elsevier, 2020  
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4X92o5gAAAAJ:Y0pCki6q_DkC)
+
+---
+
+## Awards &
 
 - **UNH Sustainability Award** (2023)
 - **AEESP Best Poster Award** (2022)
