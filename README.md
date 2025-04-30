@@ -19,7 +19,7 @@
 
 - **Ph.D., Civil & Environmental Engineering** | University of New Hampshire _(2020 – 2024)_
 - **MBA, Information Systems & Business Analytics** | UNH _(2019 – 2020)_
-- **Masters Degree, Business Administration and Management** | AUT _(2012 – 2014)_
+- **Masters Degree, Business Administration and Management** | Amirkabir University of Technology _(2012 – 2014)_
 - **B.Sc., Engineering, Mining** | Imam Khomeini International University _(2006 – 2011)_
 
 ---
